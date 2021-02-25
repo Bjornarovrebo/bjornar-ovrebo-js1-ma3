@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: futura, sens-serif;
+}
+.loader {
+  color: green;
+}
+.error {
+  background-color: red;
+  padding: 20px;
+  color: yellow;
+}
