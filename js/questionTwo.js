@@ -16,8 +16,7 @@ async function getGames() {
         resultsContainer.innerHTML = "";
     
         for (let i = 0; i < games.length; i++) {
-            console.log(games[i].name);
-    
+
             if( i === 8) {
                 break;
             } 
